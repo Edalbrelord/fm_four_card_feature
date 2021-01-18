@@ -1,0 +1,29 @@
+{
+  "name": "fm_four_card_feature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edalbrelord/fm_four_card_feature.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edalbrelord/fm_four_card_feature/issues"
+  },
+  "homepage": "https://github.com/Edalbrelord/fm_four_card_feature#readme",
+  "dependencies": {
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.4.2",
+    "tailwindcss": "^2.0.2"
+  }
+}
